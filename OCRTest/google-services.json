@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "804658198590",
+    "firebase_url": "https://rilintern-aee18.firebaseio.com",
+    "project_id": "rilintern-aee18",
+    "storage_bucket": "rilintern-aee18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804658198590:android:6bcc55e59392d2a9",
+        "android_client_info": {
+          "package_name": "edu.sfsu.cs.orange.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804658198590-b1u1qlvaqbtum4j9o6s5b3v6amt3m37i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.sfsu.cs.orange.ocr",
+            "certificate_hash": "413e2d53d3dc73db12f15519ceb7376392d36629"
+          }
+        },
+        {
+          "client_id": "804658198590-8rrmh3p809ekgmf3a4ep7tesfbt7n93o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO3oQImc2Rt4uOBrr8vcCmDzI0HwAcFOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804658198590-8rrmh3p809ekgmf3a4ep7tesfbt7n93o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
